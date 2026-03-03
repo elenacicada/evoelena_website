@@ -71,5 +71,7 @@ social:
 highlight_name: true
 ---
 
-Elena M. Meyer is a PhD Candidate at Virginia Commonwealth University, working in Andrew Eckert's plant evolutionary genetics laboratory. Their research interests include the evolution of self-fertilization in plants, the impact of historical climates on present-day species distributions, phylogenetic comparative methods, and science policy and communication. They also teach undergraduate biology labs, where they enjoy finding new ways to improve student learning in science writing and practical laboratory skills. 
+I’m a PhD Candidate at Virginia Commonwealth University, working in Andrew Eckert’s plant evolutionary genetics laboratory. My research focuses on the evolution of self-fertilization in plants, and how climate change will influence these dynamics over time. In my work, I utilize phylogenetic comparative methods, species distribution modeling, and management of large datasets.
+
+I'm also interested in teaching and communicating science. As a graduate teaching assistant, I've taught introductory biology, genetics, and ecology labs, and enjoy finding new ways to improve student learning outcomes - especially in science writing, practical laboratory skills, and statistics.
 {style="text-align: justify;"}
