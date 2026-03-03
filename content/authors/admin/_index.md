@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Integrative Life Sciences 
       institution: Virginia Commonwealth University 
-      year: expected 2025
+      year: expected 2026
     - course: BA in Biology 
       institution: New College of Florida 
       year: 2019
