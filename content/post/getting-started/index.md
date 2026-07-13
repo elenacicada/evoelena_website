@@ -42,4 +42,4 @@ Reproductive biology is a key determinant of fitness. State-dependent speciation
 ## Check it out: 
 
 - 📎 [**BioRxiv preprint**](https://www.biorxiv.org/content/10.64898/2026.06.18.733044v1)
-- 🦋 [**Bluesky post**]([https://docs.hugoblox.com/](https://bsky.app/profile/evoelena.bsky.social/post/3mouv2ynyis2q))
+- 🦋 [**Bluesky post**](https://bsky.app/profile/evoelena.bsky.social/post/3mouv2ynyis2q)
