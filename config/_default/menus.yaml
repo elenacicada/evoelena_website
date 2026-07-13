@@ -13,6 +13,6 @@ main:
   - name: Publications 
     url: '#featured'
     weight: 50
-   - name: CV
-   - url: static/uploads/resume.pdf
-   - weight: 70
+  - name: CV
+  - url: static/uploads/resume.pdf
+  - weight: 70
