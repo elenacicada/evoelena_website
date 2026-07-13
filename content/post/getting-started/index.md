@@ -2,9 +2,6 @@
 title: "Traits and hidden states: how avoidance of selfing is associated with rates of diversification across mating and sexual systems"
 subtitle: A preprint of some of my dissertation work with state-dependent speciation-extinction models 
 
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
 # Link this post with a project
 projects: []
 
