@@ -51,10 +51,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:meyere3@vcu.edu'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/elena4botany
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/evoelena.bsky.social
+    label: Follow me on Bluesky
     display:
       header: true
   - icon: google-scholar 
