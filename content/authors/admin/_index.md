@@ -51,7 +51,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:meyere3@vcu.edu'
-  - icon: Bluesky
+  - icon: bluesky
     icon_pack: brand
     link: https://bsky.app/profile/evoelena.bsky.social
     label: Follow me on Bluesky
