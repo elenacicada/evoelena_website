@@ -22,7 +22,5 @@ abstract: "An “abominable mystery”: angiosperm sexual systems have been a so
 
 # Summary. An optional shortened abstract.
 summary: We present an updated dataset of 6,781 angiosperm species from 212 families with known mating systems. We show that, based on this information, we may be mis-estimating the frequency of selfing and mixed-mating in angiosperm. 
-tags:
-- Source Themes
-featured: false
+
 ---
