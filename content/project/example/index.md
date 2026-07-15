@@ -17,10 +17,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: envelope
+  - icon: fa-envelope
     icon_pack: fab
-    name: Follow my projects on ResearchGate 
-    url: https://www.researchgate.net/profile/Elena-Meyer-2/research
+    name: A paper resulting from thid work is now published in Annals of Botany! 
+    url: https://www.researchgate.net/profile/Elena-Meyer-2/research](https://academic.oup.com/aob/article/136/1/15/8067451
 url_code: ''
 url_pdf: ''
 url_slides: ''
