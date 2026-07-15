@@ -19,7 +19,7 @@ image:
 links:
   - icon: fa-envelope
     icon_pack: fab
-    name: A paper resulting from thid work is now published in Annals of Botany! 
+    name: A paper resulting from this work is now published in Annals of Botany! 
     url: https://www.researchgate.net/profile/Elena-Meyer-2/research](https://academic.oup.com/aob/article/136/1/15/8067451
 url_code: ''
 url_pdf: ''
